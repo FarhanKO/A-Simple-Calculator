@@ -5,22 +5,22 @@ A modern VFX Calculator built with HTML, CSS, and JavaScript featuring smooth di
 
 🚀 *Features:*
 
-Simple and intuitive user interface
+  Simple and intuitive user interface
 
-Responsive layout for different screen sizes
+  Responsive layout for different screen sizes
 
-Smooth background dimming effect when interacting
+  Smooth background dimming effect when interacting
 
-Animated buttons with hover and click effects
+  Animated buttons with hover and click effects
 
-Supports addition, subtraction, multiplication, and division
+  Supports addition, subtraction, multiplication, and division
 
-Live display updates for every operation
+  Live display updates for every operation
 
 🛠️ *Technologies Used:*
 
-HTML5 – Structure
+  HTML5 – Structure
 
-CSS3 – Styling and animations
+  CSS3 – Styling and animations
 
-JavaScript (ES6) – Logic and DOM manipul
+  JavaScript (ES6) – Logic and DOM manipul
