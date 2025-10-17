@@ -25,3 +25,8 @@ A modern VFX Calculator built with HTML, CSS, and JavaScript featuring smooth di
     CSS3 – Styling and animations
 
     JavaScript (ES6) – Logic and DOM manipul
+
+📷 *Preview:*
+
+<img width="1920" height="857" alt="Screenshot (684)" src="https://github.com/user-attachments/assets/31c78c86-a4d9-4004-8a30-b11ac5491b2f" />
+
